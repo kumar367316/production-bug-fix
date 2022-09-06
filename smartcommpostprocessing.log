@@ -1,0 +1,473 @@
+2022-09-07 00:01:36,034 [http-nio-8080-exec-5] INFO  c.c.p.scheduler.PostProcessingScheduler            - Start SmartCOMM postprocessing prcoess
+2022-09-07 00:02:31,331 [http-nio-8080-exec-5] INFO  c.c.p.scheduler.PostProcessingScheduler            - no file for postprocessing
+2022-09-07 00:02:32,241 [http-nio-8080-exec-5] INFO  c.c.p.scheduler.PostProcessingScheduler            - End SmartCOMM postprocessing prcoess
+2022-09-07 00:04:50,053 [background-preinit] INFO  o.h.validator.internal.util.Version                - HV000001: Hibernate Validator 6.2.2.Final
+2022-09-07 00:04:50,070 [main] INFO  c.c.p.PostProcessingApplication                    - Starting PostProcessingApplication using Java 1.8.0_131 on HTCLT2438 with PID 18296 (C:\Users\kumar.charanswain\Desktop\backup-code\ccrepeient\-postprocessing-veracode-without-memorysize-main\target\classes started by kumar.charanswain in C:\Users\kumar.charanswain\Desktop\backup-code\ccrepeient\-postprocessing-veracode-without-memorysize-main)
+2022-09-07 00:04:50,070 [main] INFO  c.c.p.PostProcessingApplication                    - The following 1 profile is active: "dev"
+2022-09-07 00:04:50,769 [main] INFO  o.s.cloud.context.scope.GenericScope               - BeanFactory id=49cc8ef2-b9cc-3c01-bffd-22b91201930e
+2022-09-07 00:04:51,126 [main] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port(s): 8080 (http)
+2022-09-07 00:04:51,133 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-8080"]
+2022-09-07 00:04:51,133 [main] INFO  org.apache.catalina.core.StandardService           - Starting service [Tomcat]
+2022-09-07 00:04:51,133 [main] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-09-07 00:04:51,443 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2022-09-07 00:04:51,443 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 1321 ms
+2022-09-07 00:04:54,763 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-8080"]
+2022-09-07 00:04:54,781 [main] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port(s): 8080 (http) with context path ''
+2022-09-07 00:04:55,122 [main] INFO  c.c.p.PostProcessingApplication                    - Started PostProcessingApplication in 15.49 seconds (JVM running for 16.744)
+2022-09-07 00:05:18,868 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-09-07 00:05:18,874 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet                  - Initializing Servlet 'dispatcherServlet'
+2022-09-07 00:05:18,878 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet                  - Completed initialization in 4 ms
+2022-09-07 00:05:18,945 [http-nio-8080-exec-1] INFO  c.c.p.scheduler.PostProcessingScheduler            - Start SmartCOMM postprocessing prcoess
+2022-09-07 00:07:28,602 [background-preinit] INFO  o.h.validator.internal.util.Version                - HV000001: Hibernate Validator 6.2.2.Final
+2022-09-07 00:07:28,608 [main] INFO  c.c.p.PostProcessingApplication                    - Starting PostProcessingApplication using Java 1.8.0_131 on HTCLT2438 with PID 22160 (C:\Users\kumar.charanswain\Desktop\backup-code\ccrepeient\-postprocessing-veracode-without-memorysize-main\target\classes started by kumar.charanswain in C:\Users\kumar.charanswain\Desktop\backup-code\ccrepeient\-postprocessing-veracode-without-memorysize-main)
+2022-09-07 00:07:28,608 [main] INFO  c.c.p.PostProcessingApplication                    - The following 1 profile is active: "dev"
+2022-09-07 00:07:29,316 [main] INFO  o.s.cloud.context.scope.GenericScope               - BeanFactory id=49cc8ef2-b9cc-3c01-bffd-22b91201930e
+2022-09-07 00:07:29,690 [main] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port(s): 8080 (http)
+2022-09-07 00:07:29,705 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-8080"]
+2022-09-07 00:07:29,705 [main] INFO  org.apache.catalina.core.StandardService           - Starting service [Tomcat]
+2022-09-07 00:07:29,705 [main] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-09-07 00:07:30,026 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2022-09-07 00:07:30,026 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 1384 ms
+2022-09-07 00:07:33,383 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-8080"]
+2022-09-07 00:07:33,406 [main] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port(s): 8080 (http) with context path ''
+2022-09-07 00:07:33,796 [main] INFO  c.c.p.PostProcessingApplication                    - Started PostProcessingApplication in 17.261 seconds (JVM running for 18.243)
+2022-09-07 00:10:40,268 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-09-07 00:10:40,276 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet                  - Initializing Servlet 'dispatcherServlet'
+2022-09-07 00:10:40,277 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet                  - Completed initialization in 1 ms
+2022-09-07 00:10:40,346 [http-nio-8080-exec-1] INFO  c.c.p.scheduler.PostProcessingScheduler            - Start SmartCOMM postprocessing prcoess
+2022-09-07 00:12:58,005 [http-nio-8080-exec-1] INFO  c.c.p.scheduler.PostProcessingScheduler            - banner file is:Banner_1.pdf
+2022-09-07 00:12:58,209 [http-nio-8080-exec-1] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220808095939W004100523WHECcUf_printArchive_PG_CC_2_Primary.pdf
+2022-09-07 00:13:06,986 [http-nio-8080-exec-1] INFO  c.c.p.scheduler.PostProcessingScheduler            - banner file is:Banner_2.pdf
+2022-09-07 00:13:07,223 [http-nio-8080-exec-1] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220808095939W004100523WHECcUf_printArchive_PG_CC_2_1.pdf
+2022-09-07 00:13:07,640 [http-nio-8080-exec-1] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220808095939W004100523WHECcUf_printArchive_PG_CC_2_2.pdf
+2022-09-07 00:13:13,032 [http-nio-8080-exec-1] INFO  c.c.postprocessing.util.EmailUtility               - message invalid sendEmail() message exception:530-5.7.0 Authentication Required. Learn more at
+530 5.7.0  https://support.google.com/mail/?p=WantAuthError cp14-20020a170902e78e00b0016db6bd77f4sm10143476plb.117 - gsmtp
+
+2022-09-07 00:13:13,051 [http-nio-8080-exec-1] INFO  c.c.p.scheduler.PostProcessingScheduler            - The license has expired:print pcl file with evaluation copies
+2022-09-07 00:13:16,350 [http-nio-8080-exec-1] INFO  c.c.p.scheduler.PostProcessingScheduler            - End SmartCOMM postprocessing prcoess
+2022-09-07 00:21:16,171 [http-nio-8080-exec-4] INFO  c.c.p.scheduler.PostProcessingScheduler            - Start SmartCOMM postprocessing prcoess
+2022-09-07 00:21:34,088 [http-nio-8080-exec-4] INFO  c.c.p.scheduler.PostProcessingScheduler            - Exception xmlFileDocumentReader() :C:\Users\kumar.charanswain\Desktop\backup-code\ccrepeient\-postprocessing-veracode-without-memorysize-main\20220621092549W008864539DFsdJNLd_printArchive_PG_CC_2.xml (The system cannot find the file specified)
+2022-09-07 00:21:34,088 [http-nio-8080-exec-4] INFO  c.c.p.scheduler.PostProcessingScheduler            - error in read xml processing file 
+2022-09-07 00:21:34,092 [http-nio-8080-exec-4] INFO  c.c.p.scheduler.PostProcessingScheduler            - Exception totalNumberOfPagesCount() null
+2022-09-07 00:21:35,812 [http-nio-8080-exec-4] INFO  c.c.p.scheduler.PostProcessingScheduler            - Exception xmlFileDocumentReader() :C:\Users\kumar.charanswain\Desktop\backup-code\ccrepeient\-postprocessing-veracode-without-memorysize-main\20220808095939W004100523WHECcUf_printArchive_PG_CC_2.xml (The system cannot find the file specified)
+2022-09-07 00:21:35,818 [http-nio-8080-exec-4] INFO  c.c.p.scheduler.PostProcessingScheduler            - error in read xml processing file 
+2022-09-07 00:21:35,819 [http-nio-8080-exec-4] INFO  c.c.p.scheduler.PostProcessingScheduler            - Exception totalNumberOfPagesCount() null
+2022-09-07 00:21:37,071 [http-nio-8080-exec-4] INFO  c.c.p.scheduler.PostProcessingScheduler            - banner file is:Banner_1.pdf
+2022-09-07 00:21:37,278 [http-nio-8080-exec-4] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220621092549W008864539DFsdJNLd_printArchive_PG_CC_2_Primary.pdf
+2022-09-07 00:21:37,511 [http-nio-8080-exec-4] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220808095939W004100523WHECcUf_printArchive_PG_CC_2_Primary.pdf
+2022-09-07 00:21:40,754 [http-nio-8080-exec-4] INFO  c.c.p.scheduler.PostProcessingScheduler            - banner file is:Banner_2.pdf
+2022-09-07 00:21:40,954 [http-nio-8080-exec-4] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220621092549W008864539DFsdJNLd_printArchive_PG_CC_2_1.pdf
+2022-09-07 00:21:42,495 [http-nio-8080-exec-4] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220621092549W008864539DFsdJNLd_printArchive_PG_CC_2_2.pdf
+2022-09-07 00:21:43,239 [http-nio-8080-exec-4] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220808095939W004100523WHECcUf_printArchive_PG_CC_2_1.pdf
+2022-09-07 00:21:43,661 [http-nio-8080-exec-4] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220808095939W004100523WHECcUf_printArchive_PG_CC_2_2.pdf
+2022-09-07 00:21:53,861 [http-nio-8080-exec-4] INFO  c.c.postprocessing.util.EmailUtility               - message invalid sendEmail() message exception:530-5.7.0 Authentication Required. Learn more at
+530 5.7.0  https://support.google.com/mail/?p=WantAuthError e2-20020aa79802000000b0053e468a78a8sm1554257pfl.158 - gsmtp
+
+2022-09-07 00:21:53,877 [http-nio-8080-exec-4] INFO  c.c.p.scheduler.PostProcessingScheduler            - The license has expired:print pcl file with evaluation copies
+2022-09-07 00:21:57,056 [http-nio-8080-exec-4] INFO  c.c.p.scheduler.PostProcessingScheduler            - End SmartCOMM postprocessing prcoess
+2022-09-07 00:25:04,442 [background-preinit] INFO  o.h.validator.internal.util.Version                - HV000001: Hibernate Validator 6.2.2.Final
+2022-09-07 00:25:04,442 [main] INFO  c.c.p.PostProcessingApplication                    - Starting PostProcessingApplication using Java 1.8.0_131 on HTCLT2438 with PID 15032 (C:\Users\kumar.charanswain\Desktop\backup-code\ccrepeient\-postprocessing-veracode-without-memorysize-main\target\classes started by kumar.charanswain in C:\Users\kumar.charanswain\Desktop\backup-code\ccrepeient\-postprocessing-veracode-without-memorysize-main)
+2022-09-07 00:25:04,442 [main] INFO  c.c.p.PostProcessingApplication                    - The following 1 profile is active: "dev"
+2022-09-07 00:25:05,129 [main] INFO  o.s.cloud.context.scope.GenericScope               - BeanFactory id=49cc8ef2-b9cc-3c01-bffd-22b91201930e
+2022-09-07 00:25:05,548 [main] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port(s): 8080 (http)
+2022-09-07 00:25:05,560 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-8080"]
+2022-09-07 00:25:05,560 [main] INFO  org.apache.catalina.core.StandardService           - Starting service [Tomcat]
+2022-09-07 00:25:05,560 [main] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-09-07 00:25:05,852 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2022-09-07 00:25:05,852 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 1362 ms
+2022-09-07 00:25:09,076 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-8080"]
+2022-09-07 00:25:09,092 [main] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port(s): 8080 (http) with context path ''
+2022-09-07 00:25:09,451 [main] INFO  c.c.p.PostProcessingApplication                    - Started PostProcessingApplication in 17.697 seconds (JVM running for 18.685)
+2022-09-07 00:25:16,688 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-09-07 00:25:16,695 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet                  - Initializing Servlet 'dispatcherServlet'
+2022-09-07 00:25:16,699 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet                  - Completed initialization in 3 ms
+2022-09-07 00:25:16,766 [http-nio-8080-exec-2] INFO  c.c.p.scheduler.PostProcessingScheduler            - Start SmartCOMM postprocessing prcoess
+2022-09-07 00:25:29,839 [http-nio-8080-exec-2] INFO  c.c.p.scheduler.PostProcessingScheduler            - Exception xmlFileDocumentReader() :C:\Users\kumar.charanswain\Desktop\backup-code\ccrepeient\-postprocessing-veracode-without-memorysize-main\20220621092549W008864539DFsdJNLd_printArchive_PG_CC_2.xml (The system cannot find the file specified)
+2022-09-07 00:25:29,842 [http-nio-8080-exec-2] INFO  c.c.p.scheduler.PostProcessingScheduler            - error in read xml processing file 
+2022-09-07 00:25:29,844 [http-nio-8080-exec-2] INFO  c.c.p.scheduler.PostProcessingScheduler            - Exception totalNumberOfPagesCount() null
+2022-09-07 00:25:31,740 [http-nio-8080-exec-2] INFO  c.c.p.scheduler.PostProcessingScheduler            - Exception xmlFileDocumentReader() :C:\Users\kumar.charanswain\Desktop\backup-code\ccrepeient\-postprocessing-veracode-without-memorysize-main\20220808095939W004100523WHECcUf_printArchive_PG_CC_2.xml (The system cannot find the file specified)
+2022-09-07 00:25:31,740 [http-nio-8080-exec-2] INFO  c.c.p.scheduler.PostProcessingScheduler            - error in read xml processing file 
+2022-09-07 00:25:31,741 [http-nio-8080-exec-2] INFO  c.c.p.scheduler.PostProcessingScheduler            - Exception totalNumberOfPagesCount() null
+2022-09-07 00:25:33,429 [http-nio-8080-exec-2] INFO  c.c.p.scheduler.PostProcessingScheduler            - banner file is:Banner_1.pdf
+2022-09-07 00:25:33,613 [http-nio-8080-exec-2] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220621092549W008864539DFsdJNLd_printArchive_PG_CC_2_Primary.pdf
+2022-09-07 00:25:33,940 [http-nio-8080-exec-2] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220808095939W004100523WHECcUf_printArchive_PG_CC_2_Primary.pdf
+2022-09-07 00:25:42,832 [http-nio-8080-exec-2] INFO  c.c.p.scheduler.PostProcessingScheduler            - banner file is:Banner_2.pdf
+2022-09-07 00:25:43,037 [http-nio-8080-exec-2] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220621092549W008864539DFsdJNLd_printArchive_PG_CC_2_1.pdf
+2022-09-07 00:25:43,455 [http-nio-8080-exec-2] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220621092549W008864539DFsdJNLd_printArchive_PG_CC_2_2.pdf
+2022-09-07 00:25:44,057 [http-nio-8080-exec-2] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220808095939W004100523WHECcUf_printArchive_PG_CC_2_1.pdf
+2022-09-07 00:25:44,673 [http-nio-8080-exec-2] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220808095939W004100523WHECcUf_printArchive_PG_CC_2_2.pdf
+2022-09-07 00:25:50,558 [http-nio-8080-exec-2] INFO  c.c.postprocessing.util.EmailUtility               - message invalid sendEmail() message exception:530-5.7.0 Authentication Required. Learn more at
+530 5.7.0  https://support.google.com/mail/?p=WantAuthError m22-20020a17090a159600b001facf455c91sm12809062pja.21 - gsmtp
+
+2022-09-07 00:25:50,574 [http-nio-8080-exec-2] INFO  c.c.p.scheduler.PostProcessingScheduler            - The license has expired:print pcl file with evaluation copies
+2022-09-07 00:25:53,112 [http-nio-8080-exec-2] INFO  c.c.p.scheduler.PostProcessingScheduler            - End SmartCOMM postprocessing prcoess
+2022-09-07 00:32:35,912 [background-preinit] INFO  o.h.validator.internal.util.Version                - HV000001: Hibernate Validator 6.2.2.Final
+2022-09-07 00:32:35,929 [main] INFO  c.c.p.PostProcessingApplication                    - Starting PostProcessingApplication using Java 1.8.0_131 on HTCLT2438 with PID 12064 (C:\Users\kumar.charanswain\Desktop\backup-code\ccrepeient\-postprocessing-veracode-without-memorysize-main\target\classes started by kumar.charanswain in C:\Users\kumar.charanswain\Desktop\backup-code\ccrepeient\-postprocessing-veracode-without-memorysize-main)
+2022-09-07 00:32:35,929 [main] INFO  c.c.p.PostProcessingApplication                    - The following 1 profile is active: "dev"
+2022-09-07 00:32:36,589 [main] INFO  o.s.cloud.context.scope.GenericScope               - BeanFactory id=49cc8ef2-b9cc-3c01-bffd-22b91201930e
+2022-09-07 00:32:36,966 [main] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port(s): 8080 (http)
+2022-09-07 00:32:36,976 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-8080"]
+2022-09-07 00:32:36,976 [main] INFO  org.apache.catalina.core.StandardService           - Starting service [Tomcat]
+2022-09-07 00:32:36,976 [main] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-09-07 00:32:37,289 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2022-09-07 00:32:37,289 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 1325 ms
+2022-09-07 00:32:40,388 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-8080"]
+2022-09-07 00:32:40,403 [main] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port(s): 8080 (http) with context path ''
+2022-09-07 00:32:40,784 [main] INFO  c.c.p.PostProcessingApplication                    - Started PostProcessingApplication in 15.094 seconds (JVM running for 16.132)
+2022-09-07 00:32:54,574 [http-nio-8080-exec-4] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-09-07 00:32:54,576 [http-nio-8080-exec-4] INFO  o.s.web.servlet.DispatcherServlet                  - Initializing Servlet 'dispatcherServlet'
+2022-09-07 00:32:54,577 [http-nio-8080-exec-4] INFO  o.s.web.servlet.DispatcherServlet                  - Completed initialization in 1 ms
+2022-09-07 00:32:54,643 [http-nio-8080-exec-4] INFO  c.c.p.scheduler.PostProcessingScheduler            - Start SmartCOMM postprocessing prcoess
+2022-09-07 00:45:08,034 [http-nio-8080-exec-4] INFO  c.c.p.scheduler.PostProcessingScheduler            - no file for postprocessing
+2022-09-07 00:45:08,586 [http-nio-8080-exec-4] INFO  c.c.p.scheduler.PostProcessingScheduler            - End SmartCOMM postprocessing prcoess
+2022-09-07 00:48:15,401 [background-preinit] INFO  o.h.validator.internal.util.Version                - HV000001: Hibernate Validator 6.2.2.Final
+2022-09-07 00:48:15,414 [main] INFO  c.c.p.PostProcessingApplication                    - Starting PostProcessingApplication using Java 1.8.0_131 on HTCLT2438 with PID 19392 (C:\Users\kumar.charanswain\Desktop\backup-code\ccrepeient\-postprocessing-veracode-without-memorysize-main\target\classes started by kumar.charanswain in C:\Users\kumar.charanswain\Desktop\backup-code\ccrepeient\-postprocessing-veracode-without-memorysize-main)
+2022-09-07 00:48:15,414 [main] INFO  c.c.p.PostProcessingApplication                    - The following 1 profile is active: "dev"
+2022-09-07 00:48:16,083 [main] INFO  o.s.cloud.context.scope.GenericScope               - BeanFactory id=49cc8ef2-b9cc-3c01-bffd-22b91201930e
+2022-09-07 00:48:16,478 [main] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port(s): 8080 (http)
+2022-09-07 00:48:16,488 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-8080"]
+2022-09-07 00:48:16,488 [main] INFO  org.apache.catalina.core.StandardService           - Starting service [Tomcat]
+2022-09-07 00:48:16,488 [main] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-09-07 00:48:16,770 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2022-09-07 00:48:16,770 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 1325 ms
+2022-09-07 00:48:19,873 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-8080"]
+2022-09-07 00:48:19,892 [main] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port(s): 8080 (http) with context path ''
+2022-09-07 00:48:20,273 [main] INFO  c.c.p.PostProcessingApplication                    - Started PostProcessingApplication in 15.108 seconds (JVM running for 16.167)
+2022-09-07 00:48:29,557 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-09-07 00:48:29,563 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet                  - Initializing Servlet 'dispatcherServlet'
+2022-09-07 00:48:29,565 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet                  - Completed initialization in 1 ms
+2022-09-07 00:48:29,623 [http-nio-8080-exec-2] INFO  c.c.p.scheduler.PostProcessingScheduler            - Start SmartCOMM postprocessing prcoess
+2022-09-07 00:49:35,847 [http-nio-8080-exec-2] INFO  c.c.p.scheduler.PostProcessingScheduler            - Exception xmlFileDocumentReader() :C:\Users\kumar.charanswain\Desktop\backup-code\ccrepeient\-postprocessing-veracode-without-memorysize-main\20220808095939W004100523WHECcUf_printArchive_PG_CC_2.xml (The system cannot find the file specified)
+2022-09-07 00:49:35,852 [http-nio-8080-exec-2] INFO  c.c.p.scheduler.PostProcessingScheduler            - error in read xml processing file 
+2022-09-07 00:49:35,853 [http-nio-8080-exec-2] INFO  c.c.p.scheduler.PostProcessingScheduler            - Exception totalNumberOfPagesCount() null
+2022-09-07 00:49:38,272 [http-nio-8080-exec-2] INFO  c.c.p.scheduler.PostProcessingScheduler            - banner file is:Banner_1.pdf
+2022-09-07 00:49:38,481 [http-nio-8080-exec-2] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220808095939W004100523WHECcUf_printArchive_PG_CC_2_Primary.pdf
+2022-09-07 00:49:46,662 [http-nio-8080-exec-2] INFO  c.c.p.scheduler.PostProcessingScheduler            - banner file is:Banner_2.pdf
+2022-09-07 00:49:46,863 [http-nio-8080-exec-2] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220808095939W004100523WHECcUf_printArchive_PG_CC_2_1.pdf
+2022-09-07 00:49:47,189 [http-nio-8080-exec-2] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220808095939W004100523WHECcUf_printArchive_PG_CC_2_2.pdf
+2022-09-07 00:49:52,136 [http-nio-8080-exec-2] INFO  c.c.postprocessing.util.EmailUtility               - message invalid sendEmail() message exception:530-5.7.0 Authentication Required. Learn more at
+530 5.7.0  https://support.google.com/mail/?p=WantAuthError e11-20020a17090a630b00b001fd7fe7d369sm9146650pjj.54 - gsmtp
+
+2022-09-07 00:49:52,159 [http-nio-8080-exec-2] INFO  c.c.p.scheduler.PostProcessingScheduler            - The license has expired:print pcl file with evaluation copies
+2022-09-07 00:49:54,046 [http-nio-8080-exec-2] INFO  c.c.p.scheduler.PostProcessingScheduler            - End SmartCOMM postprocessing prcoess
+2022-09-07 00:55:35,472 [http-nio-8080-exec-6] INFO  c.c.p.scheduler.PostProcessingScheduler            - Start SmartCOMM postprocessing prcoess
+2022-09-07 00:55:47,825 [http-nio-8080-exec-6] INFO  c.c.p.scheduler.PostProcessingScheduler            - banner file is:Banner_1.pdf
+2022-09-07 00:55:48,027 [http-nio-8080-exec-6] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220621092549W008864539DFsdJNLd_printArchive_PG_CC_2_Primary.pdf
+2022-09-07 00:55:52,219 [http-nio-8080-exec-6] INFO  c.c.p.scheduler.PostProcessingScheduler            - banner file is:Banner_2.pdf
+2022-09-07 00:55:52,355 [http-nio-8080-exec-6] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220621092549W008864539DFsdJNLd_printArchive_PG_CC_2_1.pdf
+2022-09-07 00:55:52,580 [http-nio-8080-exec-6] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220621092549W008864539DFsdJNLd_printArchive_PG_CC_2_2.pdf
+2022-09-07 00:55:58,779 [http-nio-8080-exec-6] INFO  c.c.postprocessing.util.EmailUtility               - message invalid sendEmail() message exception:530-5.7.0 Authentication Required. Learn more at
+530 5.7.0  https://support.google.com/mail/?p=WantAuthError m3-20020a170902f64300b0016c9e5f291bsm10273325plg.111 - gsmtp
+
+2022-09-07 00:55:58,796 [http-nio-8080-exec-6] INFO  c.c.p.scheduler.PostProcessingScheduler            - The license has expired:print pcl file with evaluation copies
+2022-09-07 00:56:00,714 [http-nio-8080-exec-6] INFO  c.c.p.scheduler.PostProcessingScheduler            - End SmartCOMM postprocessing prcoess
+2022-09-07 00:58:39,664 [http-nio-8080-exec-8] INFO  c.c.p.scheduler.PostProcessingScheduler            - Start SmartCOMM postprocessing prcoess
+2022-09-07 01:03:59,682 [http-nio-8080-exec-8] INFO  c.c.p.scheduler.PostProcessingScheduler            - Exception xmlFileDocumentReader() :C:\Users\kumar.charanswain\Desktop\backup-code\ccrepeient\-postprocessing-veracode-without-memorysize-main\20220808095939W004100523WHECcUf_printArchive_PG_CC_2.xml (The system cannot find the file specified)
+2022-09-07 01:03:59,686 [http-nio-8080-exec-8] INFO  c.c.p.scheduler.PostProcessingScheduler            - error in read xml processing file 
+2022-09-07 01:03:59,687 [http-nio-8080-exec-8] INFO  c.c.p.scheduler.PostProcessingScheduler            - Exception totalNumberOfPagesCount() null
+2022-09-07 01:13:05,509 [background-preinit] INFO  o.h.validator.internal.util.Version                - HV000001: Hibernate Validator 6.2.2.Final
+2022-09-07 01:13:05,535 [main] INFO  c.c.p.PostProcessingApplication                    - Starting PostProcessingApplication using Java 1.8.0_131 on HTCLT2438 with PID 5852 (C:\Users\kumar.charanswain\Desktop\backup-code\ccrepeient\-postprocessing-veracode-without-memorysize-main\target\classes started by kumar.charanswain in C:\Users\kumar.charanswain\Desktop\backup-code\ccrepeient\-postprocessing-veracode-without-memorysize-main)
+2022-09-07 01:13:05,535 [main] INFO  c.c.p.PostProcessingApplication                    - The following 1 profile is active: "dev"
+2022-09-07 01:13:06,273 [main] INFO  o.s.cloud.context.scope.GenericScope               - BeanFactory id=49cc8ef2-b9cc-3c01-bffd-22b91201930e
+2022-09-07 01:13:06,639 [main] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port(s): 8080 (http)
+2022-09-07 01:13:06,651 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-8080"]
+2022-09-07 01:13:06,651 [main] INFO  org.apache.catalina.core.StandardService           - Starting service [Tomcat]
+2022-09-07 01:13:06,651 [main] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-09-07 01:13:06,943 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2022-09-07 01:13:06,943 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 1363 ms
+2022-09-07 01:13:10,646 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-8080"]
+2022-09-07 01:13:10,673 [main] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port(s): 8080 (http) with context path ''
+2022-09-07 01:13:11,040 [main] INFO  c.c.p.PostProcessingApplication                    - Started PostProcessingApplication in 22.375 seconds (JVM running for 23.601)
+2022-09-07 01:13:14,012 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-09-07 01:13:14,014 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet                  - Initializing Servlet 'dispatcherServlet'
+2022-09-07 01:13:14,015 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet                  - Completed initialization in 1 ms
+2022-09-07 01:13:14,077 [http-nio-8080-exec-1] INFO  c.c.p.scheduler.PostProcessingScheduler            - Start SmartCOMM postprocessing prcoess
+2022-09-07 01:16:27,913 [http-nio-8080-exec-1] INFO  c.c.p.scheduler.PostProcessingScheduler            - Exception xmlFileDocumentReader() :C:\Users\kumar.charanswain\Desktop\backup-code\ccrepeient\-postprocessing-veracode-without-memorysize-main\20220808095939W004100523WHECcUf_printArchive_PG_CC_2.xml (The system cannot find the file specified)
+2022-09-07 01:16:27,924 [http-nio-8080-exec-1] INFO  c.c.p.scheduler.PostProcessingScheduler            - error in read xml processing file 
+2022-09-07 01:16:27,924 [http-nio-8080-exec-1] INFO  c.c.p.scheduler.PostProcessingScheduler            - Exception totalNumberOfPagesCount() null
+2022-09-07 01:26:37,534 [background-preinit] INFO  o.h.validator.internal.util.Version                - HV000001: Hibernate Validator 6.2.2.Final
+2022-09-07 01:26:37,556 [main] INFO  c.c.p.PostProcessingApplication                    - Starting PostProcessingApplication using Java 1.8.0_131 on HTCLT2438 with PID 22112 (C:\Users\kumar.charanswain\Desktop\backup-code\ccrepeient\-postprocessing-veracode-without-memorysize-main\target\classes started by kumar.charanswain in C:\Users\kumar.charanswain\Desktop\backup-code\ccrepeient\-postprocessing-veracode-without-memorysize-main)
+2022-09-07 01:26:37,556 [main] INFO  c.c.p.PostProcessingApplication                    - The following 1 profile is active: "dev"
+2022-09-07 01:26:38,476 [main] INFO  o.s.cloud.context.scope.GenericScope               - BeanFactory id=49cc8ef2-b9cc-3c01-bffd-22b91201930e
+2022-09-07 01:26:38,939 [main] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port(s): 8080 (http)
+2022-09-07 01:26:38,949 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-8080"]
+2022-09-07 01:26:38,951 [main] INFO  org.apache.catalina.core.StandardService           - Starting service [Tomcat]
+2022-09-07 01:26:38,951 [main] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-09-07 01:26:39,282 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2022-09-07 01:26:39,282 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 1681 ms
+2022-09-07 01:26:42,781 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-8080"]
+2022-09-07 01:26:42,800 [main] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port(s): 8080 (http) with context path ''
+2022-09-07 01:26:43,203 [main] INFO  c.c.p.PostProcessingApplication                    - Started PostProcessingApplication in 17.247 seconds (JVM running for 18.277)
+2022-09-07 01:28:02,131 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-09-07 01:28:02,133 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet                  - Initializing Servlet 'dispatcherServlet'
+2022-09-07 01:28:02,135 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet                  - Completed initialization in 2 ms
+2022-09-07 01:28:02,187 [http-nio-8080-exec-2] INFO  c.c.p.scheduler.PostProcessingScheduler            - Start SmartCOMM postprocessing prcoess
+2022-09-07 01:29:09,555 [http-nio-8080-exec-2] INFO  c.c.p.scheduler.PostProcessingScheduler            - xml file doesn't conains totalSheet element tag:20220808095939W004100523WHECcUf_printArchive_PG_CC_2_Primary.xml
+2022-09-07 01:29:09,682 [http-nio-8080-exec-2] INFO  c.c.p.scheduler.PostProcessingScheduler            - banner file is not found:Banner_0.pdf
+2022-09-07 01:29:09,686 [http-nio-8080-exec-2] INFO  c.c.p.scheduler.PostProcessingScheduler            - SmartComm PostProcessing completed successfully
+2022-09-07 01:29:10,621 [http-nio-8080-exec-2] INFO  c.c.p.scheduler.PostProcessingScheduler            - End SmartCOMM postprocessing prcoess
+2022-09-07 01:42:27,840 [background-preinit] INFO  o.h.validator.internal.util.Version                - HV000001: Hibernate Validator 6.2.2.Final
+2022-09-07 01:42:27,855 [main] INFO  c.c.p.PostProcessingApplication                    - Starting PostProcessingApplication using Java 1.8.0_131 on HTCLT2438 with PID 4804 (C:\Users\kumar.charanswain\Desktop\backup-code\ccrepeient\-postprocessing-veracode-without-memorysize-main\target\classes started by kumar.charanswain in C:\Users\kumar.charanswain\Desktop\backup-code\ccrepeient\-postprocessing-veracode-without-memorysize-main)
+2022-09-07 01:42:27,855 [main] INFO  c.c.p.PostProcessingApplication                    - The following 1 profile is active: "dev"
+2022-09-07 01:42:28,524 [main] INFO  o.s.cloud.context.scope.GenericScope               - BeanFactory id=49cc8ef2-b9cc-3c01-bffd-22b91201930e
+2022-09-07 01:42:29,001 [main] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port(s): 8080 (http)
+2022-09-07 01:42:29,010 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-8080"]
+2022-09-07 01:42:29,010 [main] INFO  org.apache.catalina.core.StandardService           - Starting service [Tomcat]
+2022-09-07 01:42:29,010 [main] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-09-07 01:42:29,342 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2022-09-07 01:42:29,342 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 1436 ms
+2022-09-07 01:42:32,172 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-8080"]
+2022-09-07 01:42:32,192 [main] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port(s): 8080 (http) with context path ''
+2022-09-07 01:42:32,558 [main] INFO  c.c.p.PostProcessingApplication                    - Started PostProcessingApplication in 15.443 seconds (JVM running for 16.521)
+2022-09-07 01:42:57,548 [http-nio-8080-exec-3] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-09-07 01:42:57,548 [http-nio-8080-exec-3] INFO  o.s.web.servlet.DispatcherServlet                  - Initializing Servlet 'dispatcherServlet'
+2022-09-07 01:42:57,551 [http-nio-8080-exec-3] INFO  o.s.web.servlet.DispatcherServlet                  - Completed initialization in 3 ms
+2022-09-07 01:42:57,581 [http-nio-8080-exec-3] INFO  c.c.p.scheduler.PostProcessingScheduler            - Start SmartCOMM postprocessing prcoess
+2022-09-07 01:54:37,710 [background-preinit] INFO  o.h.validator.internal.util.Version                - HV000001: Hibernate Validator 6.2.2.Final
+2022-09-07 01:54:37,734 [main] INFO  c.c.p.PostProcessingApplication                    - Starting PostProcessingApplication using Java 1.8.0_131 on HTCLT2438 with PID 4260 (C:\Users\kumar.charanswain\Desktop\backup-code\ccrepeient\-postprocessing-veracode-without-memorysize-main\target\classes started by kumar.charanswain in C:\Users\kumar.charanswain\Desktop\backup-code\ccrepeient\-postprocessing-veracode-without-memorysize-main)
+2022-09-07 01:54:37,734 [main] INFO  c.c.p.PostProcessingApplication                    - The following 1 profile is active: "dev"
+2022-09-07 01:54:38,399 [main] INFO  o.s.cloud.context.scope.GenericScope               - BeanFactory id=49cc8ef2-b9cc-3c01-bffd-22b91201930e
+2022-09-07 01:54:38,764 [main] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port(s): 8080 (http)
+2022-09-07 01:54:38,774 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-8080"]
+2022-09-07 01:54:38,774 [main] INFO  org.apache.catalina.core.StandardService           - Starting service [Tomcat]
+2022-09-07 01:54:38,774 [main] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-09-07 01:54:39,007 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2022-09-07 01:54:39,007 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 1232 ms
+2022-09-07 01:54:42,674 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-8080"]
+2022-09-07 01:54:42,692 [main] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port(s): 8080 (http) with context path ''
+2022-09-07 01:54:43,065 [main] INFO  c.c.p.PostProcessingApplication                    - Started PostProcessingApplication in 15.768 seconds (JVM running for 16.865)
+2022-09-07 01:54:48,980 [http-nio-8080-exec-4] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-09-07 01:54:48,981 [http-nio-8080-exec-4] INFO  o.s.web.servlet.DispatcherServlet                  - Initializing Servlet 'dispatcherServlet'
+2022-09-07 01:54:48,985 [http-nio-8080-exec-4] INFO  o.s.web.servlet.DispatcherServlet                  - Completed initialization in 4 ms
+2022-09-07 01:54:49,025 [http-nio-8080-exec-4] INFO  c.c.p.scheduler.PostProcessingScheduler            - Start SmartCOMM postprocessing prcoess
+2022-09-07 01:59:18,713 [background-preinit] INFO  o.h.validator.internal.util.Version                - HV000001: Hibernate Validator 6.2.2.Final
+2022-09-07 01:59:18,713 [main] INFO  c.c.p.PostProcessingApplication                    - Starting PostProcessingApplication using Java 1.8.0_131 on HTCLT2438 with PID 27868 (C:\Users\kumar.charanswain\Desktop\backup-code\ccrepeient\-postprocessing-veracode-without-memorysize-main\target\classes started by kumar.charanswain in C:\Users\kumar.charanswain\Desktop\backup-code\ccrepeient\-postprocessing-veracode-without-memorysize-main)
+2022-09-07 01:59:18,719 [main] INFO  c.c.p.PostProcessingApplication                    - The following 1 profile is active: "dev"
+2022-09-07 01:59:19,926 [main] INFO  o.s.cloud.context.scope.GenericScope               - BeanFactory id=49cc8ef2-b9cc-3c01-bffd-22b91201930e
+2022-09-07 01:59:20,459 [main] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port(s): 8080 (http)
+2022-09-07 01:59:20,481 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-8080"]
+2022-09-07 01:59:20,481 [main] INFO  org.apache.catalina.core.StandardService           - Starting service [Tomcat]
+2022-09-07 01:59:20,481 [main] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-09-07 01:59:20,948 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2022-09-07 01:59:20,953 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 2165 ms
+2022-09-07 01:59:24,551 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-8080"]
+2022-09-07 01:59:24,577 [main] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port(s): 8080 (http) with context path ''
+2022-09-07 01:59:25,106 [main] INFO  c.c.p.PostProcessingApplication                    - Started PostProcessingApplication in 16.591 seconds (JVM running for 17.691)
+2022-09-07 01:59:34,968 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-09-07 01:59:34,970 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet                  - Initializing Servlet 'dispatcherServlet'
+2022-09-07 01:59:34,971 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet                  - Completed initialization in 1 ms
+2022-09-07 01:59:35,002 [http-nio-8080-exec-1] INFO  c.c.p.scheduler.PostProcessingScheduler            - Start SmartCOMM postprocessing prcoess
+2022-09-07 02:02:49,488 [http-nio-8080-exec-1] INFO  c.c.p.scheduler.PostProcessingScheduler            - banner file is:Banner_1.pdf
+2022-09-07 02:02:49,610 [http-nio-8080-exec-1] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220621092549W008864539DFsdJNLd_printArchive_PG_CC_2_Primary.pdf
+2022-09-07 02:02:49,843 [http-nio-8080-exec-1] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220808095939W004100523WHECcUf_printArchive_PG_CC_2_Primary.pdf
+2022-09-07 02:02:55,396 [http-nio-8080-exec-1] INFO  c.c.p.scheduler.PostProcessingScheduler            - banner file is:Banner_2.pdf
+2022-09-07 02:02:55,508 [http-nio-8080-exec-1] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220621092549W008864539DFsdJNLd_printArchive_PG_CC_2_1.pdf
+2022-09-07 02:02:56,503 [http-nio-8080-exec-1] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220621092549W008864539DFsdJNLd_printArchive_PG_CC_2_2.pdf
+2022-09-07 02:02:56,973 [http-nio-8080-exec-1] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220808095939W004100523WHECcUf_printArchive_PG_CC_2_1.pdf
+2022-09-07 02:02:57,257 [http-nio-8080-exec-1] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220808095939W004100523WHECcUf_printArchive_PG_CC_2_2.pdf
+2022-09-07 02:03:01,124 [http-nio-8080-exec-1] INFO  c.c.postprocessing.util.EmailUtility               - message invalid sendEmail() message exception:530-5.7.0 Authentication Required. Learn more at
+530 5.7.0  https://support.google.com/mail/?p=WantAuthError d33-20020a634f21000000b004215af667cdsm8994862pgb.41 - gsmtp
+
+2022-09-07 02:03:01,142 [http-nio-8080-exec-1] INFO  c.c.p.scheduler.PostProcessingScheduler            - The license has expired:print pcl file with evaluation copies
+2022-09-07 02:03:02,726 [http-nio-8080-exec-1] INFO  c.c.p.scheduler.PostProcessingScheduler            - End SmartCOMM postprocessing prcoess
+2022-09-07 02:15:20,762 [background-preinit] INFO  o.h.validator.internal.util.Version                - HV000001: Hibernate Validator 6.2.2.Final
+2022-09-07 02:15:20,786 [main] INFO  c.c.p.PostProcessingApplication                    - Starting PostProcessingApplication using Java 1.8.0_131 on HTCLT2438 with PID 8964 (C:\Users\kumar.charanswain\Desktop\backup-code\ccrepeient\-postprocessing-veracode-without-memorysize-main\target\classes started by kumar.charanswain in C:\Users\kumar.charanswain\Desktop\backup-code\ccrepeient\-postprocessing-veracode-without-memorysize-main)
+2022-09-07 02:15:20,786 [main] INFO  c.c.p.PostProcessingApplication                    - The following 1 profile is active: "dev"
+2022-09-07 02:15:21,452 [main] INFO  o.s.cloud.context.scope.GenericScope               - BeanFactory id=49cc8ef2-b9cc-3c01-bffd-22b91201930e
+2022-09-07 02:15:21,848 [main] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port(s): 8080 (http)
+2022-09-07 02:15:21,858 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-8080"]
+2022-09-07 02:15:21,858 [main] INFO  org.apache.catalina.core.StandardService           - Starting service [Tomcat]
+2022-09-07 02:15:21,858 [main] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-09-07 02:15:22,151 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2022-09-07 02:15:22,152 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 1322 ms
+2022-09-07 02:15:26,618 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-8080"]
+2022-09-07 02:15:26,638 [main] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port(s): 8080 (http) with context path ''
+2022-09-07 02:15:26,991 [main] INFO  c.c.p.PostProcessingApplication                    - Started PostProcessingApplication in 17.842 seconds (JVM running for 18.977)
+2022-09-07 02:15:40,702 [http-nio-8080-exec-4] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-09-07 02:15:40,704 [http-nio-8080-exec-4] INFO  o.s.web.servlet.DispatcherServlet                  - Initializing Servlet 'dispatcherServlet'
+2022-09-07 02:15:40,706 [http-nio-8080-exec-4] INFO  o.s.web.servlet.DispatcherServlet                  - Completed initialization in 1 ms
+2022-09-07 02:15:40,769 [http-nio-8080-exec-4] INFO  c.c.p.scheduler.PostProcessingScheduler            - Start SmartCOMM postprocessing prcoess
+2022-09-07 02:15:51,025 [http-nio-8080-exec-4] INFO  c.c.p.scheduler.PostProcessingScheduler            - banner file is:Banner_1.pdf
+2022-09-07 02:15:51,136 [http-nio-8080-exec-4] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220621092549W008864539DFsdJNLd_printArchive_PG_CC_2_Primary.pdf
+2022-09-07 02:15:52,078 [http-nio-8080-exec-4] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220808095939W004100523WHECcUf_printArchive_PG_CC_2_Primary.pdf
+2022-09-07 02:15:58,043 [http-nio-8080-exec-4] INFO  c.c.p.scheduler.PostProcessingScheduler            - banner file is:Banner_2.pdf
+2022-09-07 02:15:58,140 [http-nio-8080-exec-4] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220621092549W008864539DFsdJNLd_printArchive_PG_CC_2_1.pdf
+2022-09-07 02:15:59,077 [http-nio-8080-exec-4] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220621092549W008864539DFsdJNLd_printArchive_PG_CC_2_2.pdf
+2022-09-07 02:15:59,528 [http-nio-8080-exec-4] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220808095939W004100523WHECcUf_printArchive_PG_CC_2_1.pdf
+2022-09-07 02:15:59,771 [http-nio-8080-exec-4] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220808095939W004100523WHECcUf_printArchive_PG_CC_2_2.pdf
+2022-09-07 02:16:04,076 [http-nio-8080-exec-4] INFO  c.c.postprocessing.util.EmailUtility               - message invalid sendEmail() message exception:530-5.7.0 Authentication Required. Learn more at
+530 5.7.0  https://support.google.com/mail/?p=WantAuthError a10-20020a1709027e4a00b0016d2d2c7df1sm10388440pln.188 - gsmtp
+
+2022-09-07 02:16:04,096 [http-nio-8080-exec-4] INFO  c.c.p.scheduler.PostProcessingScheduler            - The license has expired:print pcl file with evaluation copies
+2022-09-07 02:16:05,839 [http-nio-8080-exec-4] INFO  c.c.p.scheduler.PostProcessingScheduler            - End SmartCOMM postprocessing prcoess
+2022-09-07 02:23:17,924 [http-nio-8080-exec-5] INFO  c.c.p.scheduler.PostProcessingScheduler            - Start SmartCOMM postprocessing prcoess
+2022-09-07 02:23:30,979 [http-nio-8080-exec-5] INFO  c.c.p.scheduler.PostProcessingScheduler            - banner file is:Banner_1.pdf
+2022-09-07 02:23:31,081 [http-nio-8080-exec-5] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220621092549W008864539DFsdJNLd_printArchive_PG_CC_2_Primary.pdf
+2022-09-07 02:23:31,366 [http-nio-8080-exec-5] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220808095939W004100523WHECcUf_printArchive_PG_CC_2_Primary.pdf
+2022-09-07 02:23:32,839 [http-nio-8080-exec-5] INFO  c.c.p.scheduler.PostProcessingScheduler            - banner file is:Banner_2.pdf
+2022-09-07 02:23:32,941 [http-nio-8080-exec-5] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220621092549W008864539DFsdJNLd_printArchive_PG_CC_2_1.pdf
+2022-09-07 02:23:33,131 [http-nio-8080-exec-5] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220621092549W008864539DFsdJNLd_printArchive_PG_CC_2_2.pdf
+2022-09-07 02:23:33,330 [http-nio-8080-exec-5] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220808095939W004100523WHECcUf_printArchive_PG_CC_2_1.pdf
+2022-09-07 02:23:33,534 [http-nio-8080-exec-5] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220808095939W004100523WHECcUf_printArchive_PG_CC_2_2.pdf
+2022-09-07 02:23:33,757 [http-nio-8080-exec-5] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220808095939W004100523WHEWUf_printArchive_PG_CC_3_Primary.pdf
+2022-09-07 02:23:35,599 [http-nio-8080-exec-5] INFO  c.c.p.scheduler.PostProcessingScheduler            - banner file is:Banner_3.pdf
+2022-09-07 02:23:35,699 [http-nio-8080-exec-5] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220808095939W004100523WHEWUf_printArchive_PG_CC_3_1.pdf
+2022-09-07 02:23:36,080 [http-nio-8080-exec-5] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220808095939W004100523WHEWUf_printArchive_PG_CC_3_2.pdf
+2022-09-07 02:23:36,474 [http-nio-8080-exec-5] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220808095939W004100523WHEWUf_printArchive_PG_CC_3_3.pdf
+2022-09-07 02:23:41,191 [http-nio-8080-exec-5] INFO  c.c.postprocessing.util.EmailUtility               - message invalid sendEmail() message exception:530-5.7.0 Authentication Required. Learn more at
+530 5.7.0  https://support.google.com/mail/?p=WantAuthError s9-20020a17090a1c0900b001fba4716f11sm9450769pjs.22 - gsmtp
+
+2022-09-07 02:23:41,195 [http-nio-8080-exec-5] INFO  c.c.p.scheduler.PostProcessingScheduler            - The license has expired:print pcl file with evaluation copies
+2022-09-07 02:23:43,899 [http-nio-8080-exec-5] INFO  c.c.p.scheduler.PostProcessingScheduler            - End SmartCOMM postprocessing prcoess
+2022-09-07 02:38:08,212 [main] INFO  c.c.p.PostProcessingApplication                    - Starting PostProcessingApplication using Java 1.8.0_131 on HTCLT2438 with PID 18152 (C:\Users\kumar.charanswain\Desktop\backup-code\ccrepeient\-postprocessing-veracode-without-memorysize-main\target\classes started by kumar.charanswain in C:\Users\kumar.charanswain\Desktop\backup-code\ccrepeient\-postprocessing-veracode-without-memorysize-main)
+2022-09-07 02:38:08,203 [background-preinit] INFO  o.h.validator.internal.util.Version                - HV000001: Hibernate Validator 6.2.2.Final
+2022-09-07 02:38:08,213 [main] INFO  c.c.p.PostProcessingApplication                    - The following 1 profile is active: "dev"
+2022-09-07 02:38:10,004 [main] INFO  o.s.cloud.context.scope.GenericScope               - BeanFactory id=49cc8ef2-b9cc-3c01-bffd-22b91201930e
+2022-09-07 02:38:10,852 [main] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port(s): 8080 (http)
+2022-09-07 02:38:10,889 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-8080"]
+2022-09-07 02:38:10,889 [main] INFO  org.apache.catalina.core.StandardService           - Starting service [Tomcat]
+2022-09-07 02:38:10,889 [main] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-09-07 02:38:11,572 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2022-09-07 02:38:11,581 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 3257 ms
+2022-09-07 02:38:16,128 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-8080"]
+2022-09-07 02:38:16,155 [main] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port(s): 8080 (http) with context path ''
+2022-09-07 02:38:17,063 [main] INFO  c.c.p.PostProcessingApplication                    - Started PostProcessingApplication in 20.681 seconds (JVM running for 21.694)
+2022-09-07 02:38:51,971 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-09-07 02:38:51,973 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet                  - Initializing Servlet 'dispatcherServlet'
+2022-09-07 02:38:51,975 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet                  - Completed initialization in 2 ms
+2022-09-07 02:38:52,055 [http-nio-8080-exec-2] INFO  c.c.p.scheduler.PostProcessingScheduler            - Start SmartCOMM postprocessing prcoess
+2022-09-07 02:38:59,214 [http-nio-8080-exec-2] INFO  c.c.p.scheduler.PostProcessingScheduler            - banner file is:Banner_2.pdf
+2022-09-07 02:38:59,411 [http-nio-8080-exec-2] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220808095939W004100523WHEWUf_printArchive_PG_CC_3_Primary.pdf
+2022-09-07 02:39:06,074 [http-nio-8080-exec-2] INFO  c.c.p.scheduler.PostProcessingScheduler            - banner file is:Banner_3.pdf
+2022-09-07 02:39:06,162 [http-nio-8080-exec-2] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220808095939W004100523WHEWUf_printArchive_PG_CC_3_1.pdf
+2022-09-07 02:39:06,622 [http-nio-8080-exec-2] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220808095939W004100523WHEWUf_printArchive_PG_CC_3_2.pdf
+2022-09-07 02:39:06,918 [http-nio-8080-exec-2] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220808095939W004100523WHEWUf_printArchive_PG_CC_3_3.pdf
+2022-09-07 02:39:11,287 [http-nio-8080-exec-2] INFO  c.c.postprocessing.util.EmailUtility               - message invalid sendEmail() message exception:530-5.7.0 Authentication Required. Learn more at
+530 5.7.0  https://support.google.com/mail/?p=WantAuthError p14-20020a170902e74e00b001641b2d61d4sm10447856plf.30 - gsmtp
+
+2022-09-07 02:39:11,306 [http-nio-8080-exec-2] INFO  c.c.p.scheduler.PostProcessingScheduler            - The license has expired:print pcl file with evaluation copies
+2022-09-07 02:39:11,894 [http-nio-8080-exec-2] INFO  c.custom.postprocessing.util.ZipUtility            - archive process file lista:20220808095939W004100523WHEWUf.pdf
+2022-09-07 02:39:11,911 [http-nio-8080-exec-2] INFO  c.custom.postprocessing.util.ZipUtility            - archive process file lista:20220808095939W004100523WHEWUf.xml
+2022-09-07 02:39:12,721 [http-nio-8080-exec-2] INFO  c.c.p.scheduler.PostProcessingScheduler            - Total number of file archive is 2
+2022-09-07 02:39:12,889 [http-nio-8080-exec-2] INFO  c.c.p.scheduler.PostProcessingScheduler            - End SmartCOMM postprocessing prcoess
+2022-09-07 02:48:23,912 [background-preinit] INFO  o.h.validator.internal.util.Version                - HV000001: Hibernate Validator 6.2.2.Final
+2022-09-07 02:48:23,920 [main] INFO  c.c.p.PostProcessingApplication                    - Starting PostProcessingApplication using Java 1.8.0_131 on HTCLT2438 with PID 22880 (C:\Users\kumar.charanswain\Desktop\backup-code\ccrepeient\-postprocessing-veracode-without-memorysize-main\target\classes started by kumar.charanswain in C:\Users\kumar.charanswain\Desktop\backup-code\ccrepeient\-postprocessing-veracode-without-memorysize-main)
+2022-09-07 02:48:23,928 [main] INFO  c.c.p.PostProcessingApplication                    - The following 1 profile is active: "dev"
+2022-09-07 02:48:24,598 [main] INFO  o.s.cloud.context.scope.GenericScope               - BeanFactory id=49cc8ef2-b9cc-3c01-bffd-22b91201930e
+2022-09-07 02:48:24,969 [main] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port(s): 8080 (http)
+2022-09-07 02:48:24,979 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-8080"]
+2022-09-07 02:48:24,979 [main] INFO  org.apache.catalina.core.StandardService           - Starting service [Tomcat]
+2022-09-07 02:48:24,979 [main] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-09-07 02:48:25,277 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2022-09-07 02:48:25,285 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 1317 ms
+2022-09-07 02:48:28,949 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-8080"]
+2022-09-07 02:48:28,971 [main] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port(s): 8080 (http) with context path ''
+2022-09-07 02:48:29,438 [main] INFO  c.c.p.PostProcessingApplication                    - Started PostProcessingApplication in 16.836 seconds (JVM running for 17.812)
+2022-09-07 02:50:49,343 [background-preinit] INFO  o.h.validator.internal.util.Version                - HV000001: Hibernate Validator 6.2.2.Final
+2022-09-07 02:50:49,361 [main] INFO  c.c.p.PostProcessingApplication                    - Starting PostProcessingApplication using Java 1.8.0_131 on HTCLT2438 with PID 10960 (C:\Users\kumar.charanswain\Desktop\backup-code\ccrepeient\-postprocessing-veracode-without-memorysize-main\target\classes started by kumar.charanswain in C:\Users\kumar.charanswain\Desktop\backup-code\ccrepeient\-postprocessing-veracode-without-memorysize-main)
+2022-09-07 02:50:49,361 [main] INFO  c.c.p.PostProcessingApplication                    - The following 1 profile is active: "dev"
+2022-09-07 02:50:50,012 [main] INFO  o.s.cloud.context.scope.GenericScope               - BeanFactory id=49cc8ef2-b9cc-3c01-bffd-22b91201930e
+2022-09-07 02:50:50,365 [main] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port(s): 8080 (http)
+2022-09-07 02:50:50,385 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-8080"]
+2022-09-07 02:50:50,385 [main] INFO  org.apache.catalina.core.StandardService           - Starting service [Tomcat]
+2022-09-07 02:50:50,385 [main] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-09-07 02:50:50,695 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2022-09-07 02:50:50,695 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 1303 ms
+2022-09-07 02:50:53,823 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-8080"]
+2022-09-07 02:50:53,843 [main] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port(s): 8080 (http) with context path ''
+2022-09-07 02:50:54,249 [main] INFO  c.c.p.PostProcessingApplication                    - Started PostProcessingApplication in 15.792 seconds (JVM running for 16.774)
+2022-09-07 02:51:02,491 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-09-07 02:51:02,492 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet                  - Initializing Servlet 'dispatcherServlet'
+2022-09-07 02:51:02,493 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet                  - Completed initialization in 1 ms
+2022-09-07 02:51:02,546 [http-nio-8080-exec-1] INFO  c.c.p.scheduler.PostProcessingScheduler            - Start SmartCOMM postprocessing prcoess
+2022-09-07 02:51:12,368 [http-nio-8080-exec-1] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file:20220621092549W008864539DFsdJNLd_printArchive_PG_CC_2_Primary.xml
+2022-09-07 02:51:12,792 [http-nio-8080-exec-1] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file:20220621092549W008864539DFsdJNLd_printArchive_PG_CC_2_1.xml
+2022-09-07 02:51:12,920 [http-nio-8080-exec-1] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file:20220621092549W008864539DFsdJNLd_printArchive_PG_CC_2_2.xml
+2022-09-07 02:51:14,067 [http-nio-8080-exec-1] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file:20220808095939W004100523WHECcUf_printArchive_PG_CC_2_Primary.xml
+2022-09-07 02:51:14,425 [http-nio-8080-exec-1] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file:20220808095939W004100523WHECcUf_printArchive_PG_CC_2_1.xml
+2022-09-07 02:51:14,560 [http-nio-8080-exec-1] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file:20220808095939W004100523WHECcUf_printArchive_PG_CC_2_2.xml
+2022-09-07 02:51:16,102 [http-nio-8080-exec-1] INFO  c.c.p.scheduler.PostProcessingScheduler            - banner file is:Banner_1.pdf
+2022-09-07 02:51:16,203 [http-nio-8080-exec-1] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220621092549W008864539DFsdJNLd_printArchive_PG_CC_2_Primary.pdf
+2022-09-07 02:51:16,498 [http-nio-8080-exec-1] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220808095939W004100523WHECcUf_printArchive_PG_CC_2_Primary.pdf
+2022-09-07 02:51:23,752 [http-nio-8080-exec-1] INFO  c.c.p.scheduler.PostProcessingScheduler            - banner file is:Banner_2.pdf
+2022-09-07 02:51:23,957 [http-nio-8080-exec-1] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220621092549W008864539DFsdJNLd_printArchive_PG_CC_2_1.pdf
+2022-09-07 02:51:24,368 [http-nio-8080-exec-1] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220621092549W008864539DFsdJNLd_printArchive_PG_CC_2_2.pdf
+2022-09-07 02:51:24,761 [http-nio-8080-exec-1] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220808095939W004100523WHECcUf_printArchive_PG_CC_2_1.pdf
+2022-09-07 02:51:25,094 [http-nio-8080-exec-1] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220808095939W004100523WHECcUf_printArchive_PG_CC_2_2.pdf
+2022-09-07 02:51:26,621 [http-nio-8080-exec-1] INFO  c.c.p.scheduler.PostProcessingScheduler            - banner file is:Banner_3.pdf
+2022-09-07 02:51:26,726 [http-nio-8080-exec-1] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220904140439W006547364HFCRst_printArchive_PG.pdf
+2022-09-07 02:51:30,775 [http-nio-8080-exec-1] INFO  c.c.postprocessing.util.EmailUtility               - message invalid sendEmail() message exception:530-5.7.0 Authentication Required. Learn more at
+530 5.7.0  https://support.google.com/mail/?p=WantAuthError y69-20020a626448000000b0053825055227sm11034432pfb.99 - gsmtp
+
+2022-09-07 02:51:30,798 [http-nio-8080-exec-1] INFO  c.c.p.scheduler.PostProcessingScheduler            - The license has expired:print pcl file with evaluation copies
+2022-09-07 02:51:32,526 [http-nio-8080-exec-1] INFO  c.custom.postprocessing.util.ZipUtility            - archive process file lista:20220621092549W008864539DFsdJNLd.pdf
+2022-09-07 02:51:32,536 [http-nio-8080-exec-1] INFO  c.custom.postprocessing.util.ZipUtility            - archive process file lista:20220621092549W008864539DFsdJNLd.xml
+2022-09-07 02:51:32,536 [http-nio-8080-exec-1] INFO  c.custom.postprocessing.util.ZipUtility            - archive process file lista:20220808095939W004100523WHECcUf.pdf
+2022-09-07 02:51:32,543 [http-nio-8080-exec-1] INFO  c.custom.postprocessing.util.ZipUtility            - archive process file lista:20220808095939W004100523WHECcUf.xml
+2022-09-07 02:51:32,544 [http-nio-8080-exec-1] INFO  c.custom.postprocessing.util.ZipUtility            - archive process file lista:20220904140439W006547364HFCRst.pdf
+2022-09-07 02:51:32,553 [http-nio-8080-exec-1] INFO  c.custom.postprocessing.util.ZipUtility            - archive process file lista:20220904140439W006547364HFCRst.xml
+2022-09-07 02:51:33,476 [http-nio-8080-exec-1] INFO  c.c.p.scheduler.PostProcessingScheduler            - Total number of file archive is 6
+2022-09-07 02:51:33,709 [http-nio-8080-exec-1] INFO  c.c.p.scheduler.PostProcessingScheduler            - End SmartCOMM postprocessing prcoess
+2022-09-07 02:58:50,708 [http-nio-8080-exec-5] INFO  c.c.p.scheduler.PostProcessingScheduler            - Start SmartCOMM postprocessing prcoess
+2022-09-07 02:58:55,818 [http-nio-8080-exec-5] INFO  c.c.p.scheduler.PostProcessingScheduler            - missing Document tag element
+2022-09-07 02:58:56,700 [http-nio-8080-exec-5] INFO  c.c.p.scheduler.PostProcessingScheduler            - no cc count for processing 20220904140442W003785449_CC_TiTQ_printArchive_PG.pdf
+2022-09-07 02:58:57,095 [http-nio-8080-exec-5] INFO  c.c.p.scheduler.PostProcessingScheduler            - no cc count for processing 20220904140442W003785449_CC_TiTQ_printArchive_PG.xml
+2022-09-07 02:58:57,422 [http-nio-8080-exec-5] INFO  c.c.p.scheduler.PostProcessingScheduler            - invalid format file for processing 29032022902090W003254566652KHdL.pdf
+2022-09-07 02:58:57,935 [http-nio-8080-exec-5] INFO  c.c.p.scheduler.PostProcessingScheduler            - invalid format file for processing 29032022902090W003254566652KHdL.xml
+2022-09-07 02:58:58,177 [http-nio-8080-exec-5] INFO  c.c.p.scheduler.PostProcessingScheduler            - no file for postprocessing
+2022-09-07 02:58:58,561 [http-nio-8080-exec-5] INFO  c.c.p.scheduler.PostProcessingScheduler            - End SmartCOMM postprocessing prcoess
+2022-09-07 03:04:32,476 [http-nio-8080-exec-8] INFO  c.c.p.scheduler.PostProcessingScheduler            - Start SmartCOMM postprocessing prcoess
+2022-09-07 03:06:06,029 [background-preinit] INFO  o.h.validator.internal.util.Version                - HV000001: Hibernate Validator 6.2.2.Final
+2022-09-07 03:06:06,050 [main] INFO  c.c.p.PostProcessingApplication                    - Starting PostProcessingApplication using Java 1.8.0_131 on HTCLT2438 with PID 22428 (C:\Users\kumar.charanswain\Desktop\backup-code\ccrepeient\-postprocessing-veracode-without-memorysize-main\target\classes started by kumar.charanswain in C:\Users\kumar.charanswain\Desktop\backup-code\ccrepeient\-postprocessing-veracode-without-memorysize-main)
+2022-09-07 03:06:06,050 [main] INFO  c.c.p.PostProcessingApplication                    - The following 1 profile is active: "dev"
+2022-09-07 03:06:07,913 [main] INFO  o.s.cloud.context.scope.GenericScope               - BeanFactory id=49cc8ef2-b9cc-3c01-bffd-22b91201930e
+2022-09-07 03:06:08,814 [main] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port(s): 8080 (http)
+2022-09-07 03:06:08,836 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-8080"]
+2022-09-07 03:06:08,846 [main] INFO  org.apache.catalina.core.StandardService           - Starting service [Tomcat]
+2022-09-07 03:06:08,846 [main] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-09-07 03:06:09,415 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2022-09-07 03:06:09,428 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 3273 ms
+2022-09-07 03:06:13,864 [main] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-8080"]
+2022-09-07 03:06:13,922 [main] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port(s): 8080 (http) with context path ''
+2022-09-07 03:06:14,755 [main] INFO  c.c.p.PostProcessingApplication                    - Started PostProcessingApplication in 19.851 seconds (JVM running for 21.14)
+2022-09-07 03:06:50,125 [http-nio-8080-exec-4] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-09-07 03:06:50,126 [http-nio-8080-exec-4] INFO  o.s.web.servlet.DispatcherServlet                  - Initializing Servlet 'dispatcherServlet'
+2022-09-07 03:06:50,128 [http-nio-8080-exec-4] INFO  o.s.web.servlet.DispatcherServlet                  - Completed initialization in 1 ms
+2022-09-07 03:06:50,154 [http-nio-8080-exec-4] INFO  c.c.p.scheduler.PostProcessingScheduler            - Start SmartCOMM postprocessing prcoess
+2022-09-07 03:07:58,895 [http-nio-8080-exec-4] INFO  c.c.p.scheduler.PostProcessingScheduler            - missing Document tag element
+2022-09-07 03:07:59,998 [http-nio-8080-exec-4] INFO  c.c.p.scheduler.PostProcessingScheduler            - no cc count for processing 20220904140442W003785449_CC_TiTQ_printArchive_PG.pdf
+2022-09-07 03:08:00,416 [http-nio-8080-exec-4] INFO  c.c.p.scheduler.PostProcessingScheduler            - no cc count for processing 20220904140442W003785449_CC_TiTQ_printArchive_PG.xml
+2022-09-07 03:08:00,740 [http-nio-8080-exec-4] INFO  c.c.p.scheduler.PostProcessingScheduler            - invalid format file for processing 29032022902090W003254566652KHdL.pdf
+2022-09-07 03:08:01,080 [http-nio-8080-exec-4] INFO  c.c.p.scheduler.PostProcessingScheduler            - invalid format file for processing 29032022902090W003254566652KHdL.xml
+2022-09-07 03:08:01,843 [http-nio-8080-exec-4] INFO  c.c.p.scheduler.PostProcessingScheduler            - banner file is:Banner_MultiPage.pdf
+2022-09-07 03:08:01,960 [http-nio-8080-exec-4] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220215063904W006534570UYtergF_printOnly_PG.pdf
+2022-09-07 03:09:06,620 [http-nio-8080-exec-4] INFO  c.c.postprocessing.util.EmailUtility               - message invalid sendEmail() message exception:530-5.7.0 Authentication Required. Learn more at
+530 5.7.0  https://support.google.com/mail/?p=WantAuthError a2-20020a1709027d8200b00172d9f6e22bsm10357263plm.15 - gsmtp
+
+2022-09-07 03:09:06,633 [http-nio-8080-exec-4] INFO  c.c.p.scheduler.PostProcessingScheduler            - The license has expired:print pcl file with evaluation copies
+2022-09-07 03:09:07,056 [http-nio-8080-exec-4] INFO  c.c.p.scheduler.PostProcessingScheduler            - End SmartCOMM postprocessing prcoess
+2022-09-07 03:19:54,746 [http-nio-8080-exec-3] INFO  c.c.p.scheduler.PostProcessingScheduler            - Start SmartCOMM postprocessing prcoess
+2022-09-07 03:19:59,760 [http-nio-8080-exec-3] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file:20220621092549W008864539DFsdJNLd_printArchive_PG_CC_2_Primary.xml
+2022-09-07 03:19:59,998 [http-nio-8080-exec-3] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file:20220621092549W008864539DFsdJNLd_printArchive_PG_CC_2_1.xml
+2022-09-07 03:20:00,097 [http-nio-8080-exec-3] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file:20220621092549W008864539DFsdJNLd_printArchive_PG_CC_2_2.xml
+2022-09-07 03:20:01,148 [http-nio-8080-exec-3] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file:20220808095939W004100523WHECcUf_printArchive_PG_CC_2_Primary.xml
+2022-09-07 03:20:01,381 [http-nio-8080-exec-3] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file:20220808095939W004100523WHECcUf_printArchive_PG_CC_2_1.xml
+2022-09-07 03:20:01,500 [http-nio-8080-exec-3] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file:20220808095939W004100523WHECcUf_printArchive_PG_CC_2_2.xml
+2022-09-07 03:20:02,414 [http-nio-8080-exec-3] INFO  c.c.p.scheduler.PostProcessingScheduler            - banner file is:Banner_1.pdf
+2022-09-07 03:20:02,503 [http-nio-8080-exec-3] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220621092549W008864539DFsdJNLd_printArchive_PG_CC_2_Primary.pdf
+2022-09-07 03:20:03,401 [http-nio-8080-exec-3] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220808095939W004100523WHECcUf_printArchive_PG_CC_2_Primary.pdf
+2022-09-07 03:20:05,113 [http-nio-8080-exec-3] INFO  c.c.p.scheduler.PostProcessingScheduler            - banner file is:Banner_2.pdf
+2022-09-07 03:20:05,201 [http-nio-8080-exec-3] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220621092549W008864539DFsdJNLd_printArchive_PG_CC_2_1.pdf
+2022-09-07 03:20:06,274 [http-nio-8080-exec-3] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220621092549W008864539DFsdJNLd_printArchive_PG_CC_2_2.pdf
+2022-09-07 03:20:06,611 [http-nio-8080-exec-3] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220808095939W004100523WHECcUf_printArchive_PG_CC_2_1.pdf
+2022-09-07 03:20:06,811 [http-nio-8080-exec-3] INFO  c.c.p.scheduler.PostProcessingScheduler            - process file is:20220808095939W004100523WHECcUf_printArchive_PG_CC_2_2.pdf
+2022-09-07 03:20:10,456 [http-nio-8080-exec-3] INFO  c.c.postprocessing.util.EmailUtility               - message invalid sendEmail() message exception:530-5.7.0 Authentication Required. Learn more at
+530 5.7.0  https://support.google.com/mail/?p=WantAuthError z15-20020a170903018f00b00172a670607asm10465371plg.300 - gsmtp
+
+2022-09-07 03:20:10,470 [http-nio-8080-exec-3] INFO  c.c.p.scheduler.PostProcessingScheduler            - The license has expired:print pcl file with evaluation copies
+2022-09-07 03:20:11,429 [http-nio-8080-exec-3] INFO  c.custom.postprocessing.util.ZipUtility            - archive process file lista:20220621092549W008864539DFsdJNLd.pdf
+2022-09-07 03:20:11,435 [http-nio-8080-exec-3] INFO  c.custom.postprocessing.util.ZipUtility            - archive process file lista:20220621092549W008864539DFsdJNLd.xml
+2022-09-07 03:20:11,436 [http-nio-8080-exec-3] INFO  c.custom.postprocessing.util.ZipUtility            - archive process file lista:20220808095939W004100523WHECcUf.pdf
+2022-09-07 03:20:11,446 [http-nio-8080-exec-3] INFO  c.custom.postprocessing.util.ZipUtility            - archive process file lista:20220808095939W004100523WHECcUf.xml
+2022-09-07 03:20:11,803 [http-nio-8080-exec-3] INFO  c.c.p.scheduler.PostProcessingScheduler            - Total number of file archive is 4
+2022-09-07 03:20:11,984 [http-nio-8080-exec-3] INFO  c.c.p.scheduler.PostProcessingScheduler            - End SmartCOMM postprocessing prcoess
